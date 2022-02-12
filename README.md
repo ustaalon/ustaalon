@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Alon Albahari
+- 👔 I’m a Software Engineer @ Bioforum and working with Angular and C# .NET Core
 - 👀 I’m interested in Data Science, Machine Learning and new technologies
 - 🌱 I’m currently learning BSc in Computer Science (third year student)
 - 📫 How to reach me >> ustaalon@gmail.com or [Linkedin](https://www.linkedin.com/in/ustaalon/)
